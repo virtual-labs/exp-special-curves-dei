@@ -10,6 +10,7 @@ function showNextBtn(click) {
     );
 }
 
+
 document.getElementById("transbox").addEventListener("click", () => {
   document.getElementById("transbox").style.visibility = "hidden";
   document.getElementById("sheet").style.animationPlayState = "running";
