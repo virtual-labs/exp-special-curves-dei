@@ -1,6 +1,11 @@
 //Your JavaScript goes in here
 
+window.addEventListener("load", function () {
+  var loader = document.getElementById("loader");
+  loader.style.display = "none";
+  document.body.style.overflow = 'auto'; // Re-enable scroll bar
 
+});
 
 // ----------------------options-------------------------
 
