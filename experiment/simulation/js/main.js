@@ -87,6 +87,33 @@ function drop3() {
     }
   });
 }
+function drop4() {
+  // Assuming 'trans2', 'arr1', 'dropMenu2', and 'arrow1' are HTML elements, fetch them using getElementById.
+  const trans3 = document.getElementById("trans3");
+  const arr3 = document.getElementById("arr3");
+  const dropMenu3 = document.getElementById("dropMenu3");
+  const arrow12 = document.getElementById("arrow19");
+
+  // Hide 'trans2', 'arr1', and show 'dropMenu2'
+  trans3.style.visibility = "hidden";
+  arr3.style.visibility = "hidden";
+  dropMenu3.style.visibility = "visible";
+
+  // Add a change event listener to 'dropMenu2'
+  dropMenu3.addEventListener("change", (evt) => {
+    let selectedValue = dropMenu3.value; // Corrected variable name to 'dropMenu2'
+
+    if (selectedValue === "3hPencil") {
+      // If 'hPencil' is selected, hide 'dropMenu2' and 'whitebox3', and show 'arrow1'
+      dropMenu3.style.visibility = "hidden";
+      document.getElementById("whitebox5").style.visibility = "hidden";
+      arrow19.style.visibility = "visible";
+    } else {
+      // If a different value is selected, show an alert
+      alert("Please select 3H Pencil");
+    }
+  });
+}
 
 function gif1() {
   document.getElementById("one").style.visibility = "hidden";
@@ -362,7 +389,6 @@ function q2gif3(){
   },7500)
 }
 
-// -----------------------question-2 step-2---------------------
 
 function gif20(){
   document.getElementById("arrow12").style.visibility = "hidden";
@@ -376,18 +402,17 @@ function gif20(){
   },7500)
 }
 
-// -----------------------question-2 step-3---------------------
 
-function q2gif5(){
-  document.getElementById("arrow17").style.visibility = "hidden";
-  document.getElementById("q2gif5").style.visibility="visible"
-  document.getElementById("transbox18").style.visibility="hidden"
+function gif21(){
+  document.getElementById("arrow19").style.visibility = "hidden";
+  document.getElementById("gif21").style.visibility="visible"
+  document.getElementById("transbox29").style.visibility="hidden"
   document.getElementById("thirtytwo").style.visibility="hidden"
   myTimeout=setTimeout(()=>{
-    document.getElementById("q2gif5").style.visibility="hidden"
+    document.getElementById("gif21").style.visibility="hidden"
    document.getElementById("thirtythree").style.visibility="visible"
    document.getElementById("next").style.visibility = "visible";
-  },9500)
+  },3500)
 }
 
 // -----------------------question-2 step-4--------------------
