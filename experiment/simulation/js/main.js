@@ -410,64 +410,79 @@ function gif21(){
   document.getElementById("thirtythree").style.visibility="hidden"
   myTimeout=setTimeout(()=>{
     document.getElementById("gif21").style.visibility="hidden"
+    document.getElementById("arrow19").style.visibility = "visible";
+    document.getElementById("transbox30").style.visibility="visible"
    document.getElementById("thirtyfour").style.visibility="visible"
   },3500)
 }
 
 
 function gif22(){
-  document.getElementById("arrow12").style.visibility = "hidden";
-  document.getElementById("thirtyfour").style.visibility = "hidden";
-  document.getElementById("q2gif28").style.visibility="visible"
-  document.getElementById("transbox18").style.visibility="hidden"
+  document.getElementById("arrow19").style.visibility = "hidden";
+  document.getElementById("gif22").style.visibility="visible"
+  document.getElementById("transbox30").style.visibility="hidden"
+  document.getElementById("thirtyfour").style.visibility="hidden"
   myTimeout=setTimeout(()=>{
-    document.getElementById("next").style.visibility = "visible";
-  },4000)
+    document.getElementById("gif22").style.visibility="hidden"
+    document.getElementById("arrow19").style.visibility = "visible";
+    document.getElementById("transbox31").style.visibility="visible"
+   document.getElementById("thirtyfive").style.visibility="visible"
+  },7500)
 }
 
 
 
 function gif23(){
-  document.getElementById("arrow12").style.visibility = "hidden";
-  document.getElementById("thirtyfour").style.visibility = "hidden";
-  document.getElementById("q2gif6").style.visibility="visible"
-  document.getElementById("transbox18").style.visibility="hidden"
+  document.getElementById("arrow19").style.visibility = "hidden";
+  document.getElementById("gif23").style.visibility="visible"
+  document.getElementById("transbox31").style.visibility="hidden"
+  document.getElementById("thirtyfive").style.visibility="hidden"
   myTimeout=setTimeout(()=>{
-    document.getElementById("arrow12").style.visibility = "visible";
-    document.getElementById("thirtyfour").style.visibility="hidden"
-    document.getElementById("transbox19").style.visibility = "visible";
-    // document.getElementById("next").style.visibility = "visible";
-  },11000)
+    document.getElementById("gif23").style.visibility="hidden"
+    document.getElementById("arrow19").style.visibility = "visible";
+    document.getElementById("transbox32").style.visibility="visible"
+    document.getElementById("thirtysix").style.visibility="visible"
+  },3700)
 }
 
 function gif24(){
-  document.getElementById("arrow12").style.visibility = "hidden";
-  document.getElementById("q2gif6").style.visibility="hidden"
-  document.getElementById("q2gif7").style.visibility="visible"
-  document.getElementById("transbox19").style.visibility="hidden"
+  document.getElementById("arrow19").style.visibility = "hidden";
+  document.getElementById("gif24").style.visibility="visible"
+  document.getElementById("transbox32").style.visibility="hidden"
+  document.getElementById("thirtysix").style.visibility="hidden"
   myTimeout=setTimeout(()=>{
-    document.getElementById("q2gif7").style.visibility="hidden"
-    document.getElementById("thirtyfive").style.visibility="visible"
-   document.getElementById("next").style.visibility = "visible";
-  },7500)
+    document.getElementById("gif24").style.visibility="hidden"
+    document.getElementById("arrow20").style.visibility = "visible";
+    document.getElementById("transbox33").style.visibility="visible"
+    document.getElementById("thirtyseven").style.visibility="visible"
+  },3900)
 }
-
-// -----------------------question-2 step-6---------------------
 
 function gif25(){
-  document.getElementById("arrow12").style.visibility = "hidden";
-  document.getElementById("transbox20").style.visibility="hidden"
-  document.getElementById("thirtysix").style.visibility="hidden"
-  document.getElementById("q2gif8").style.visibility="visible"
+  document.getElementById("arrow20").style.visibility = "hidden";
+  document.getElementById("gif25").style.visibility="visible"
+  document.getElementById("transbox33").style.visibility="hidden"
+  document.getElementById("thirtyseven").style.visibility="hidden"
   myTimeout=setTimeout(()=>{
-    document.getElementById("q2gif8").style.visibility="hidden"
-    document.getElementById("thirtyseven").style.visibility="visible"
-    document.getElementById("next").style.visibility = "visible";
-  },22900)
+    document.getElementById("gif25").style.visibility="hidden"
+    document.getElementById("arrow21").style.visibility = "visible";
+    document.getElementById("thirtyeight").style.visibility="visible"
+    document.getElementById("transbox34").style.visibility="visible"
+  },7900)
 }
 
-// -----------------------question-2 step-7---------------------
-
+function gif26(){
+  document.getElementById("arrow21").style.visibility = "hidden";
+  document.getElementById("gif26").style.visibility="visible"
+  document.getElementById("transbox34").style.visibility="hidden"
+  document.getElementById("thirtyeight").style.visibility="hidden"
+  myTimeout=setTimeout(()=>{
+    document.getElementById("gif26").style.visibility="hidden"
+    document.getElementById("thirtynine").style.visibility="visible"
+    document.getElementById("transbox34").style.visibility="visible"
+    document.getElementById("next").style.visibility = "visible";
+  },9500)
+}
 
 function q2gif9(){
   document.getElementById("arrow12").style.visibility = "hidden";
