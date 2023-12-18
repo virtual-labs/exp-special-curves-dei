@@ -579,6 +579,18 @@ nav .logo2 {
   top: 150px;
 }
 
+#gif32 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif33 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
 #q2gif21 {
   position: absolute;
   left: 54px;
@@ -926,6 +938,14 @@ nav .logo2 {
   top: 160px;
 }
 
+#transbox39 {
+  height: 166px;
+  width: 55px;
+  position: absolute;
+  left: 615px;
+  top: 160px;
+}
+
 #transbox24 {
   height: 166px;
   width: 55px;
@@ -1189,6 +1209,18 @@ nav .logo2 {
 }
 
 #fourtyeight {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#fourtynine {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#fifty {
   position: absolute;
   left: 54px;
   top: 150px;

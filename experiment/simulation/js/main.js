@@ -548,6 +548,31 @@ function gif31(){
   },18000)
 }
 
+function gif32(){
+  document.getElementById("arrow15").style.visibility = "hidden";
+  document.getElementById("gif32").style.visibility="visible"
+  document.getElementById("transbox23").style.visibility="hidden"
+  document.getElementById("fourtyeight").style.visibility="hidden"
+  myTimeout=setTimeout(()=>{
+    document.getElementById("gif32").style.visibility="hidden"
+    document.getElementById("transbox39").style.visibility="visible"
+    document.getElementById("fourtynine").style.visibility="visible"
+  },4000)
+}
+
+function gif33(){
+  document.getElementById("arrow15").style.visibility = "hidden";
+  document.getElementById("gif33").style.visibility="visible"
+  document.getElementById("transbox39").style.visibility="hidden"
+  document.getElementById("fourtynine").style.visibility="hidden"
+  myTimeout=setTimeout(()=>{
+    document.getElementById("gif33").style.visibility="hidden"
+    document.getElementById("transbox39").style.visibility="visible"
+    document.getElementById("next").style.visibility = "visible";
+    document.getElementById("fifty").style.visibility="visible"
+  },10000)
+}
+
 function q2gif9(){
   document.getElementById("arrow12").style.visibility = "hidden";
   document.getElementById("transbox19").style.visibility="hidden"
