@@ -591,6 +591,90 @@ nav .logo2 {
   top: 150px;
 }
 
+#gif34 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif35 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif36 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif37 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif38 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif39 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif40 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif41 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif42 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif43 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif44 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif45 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif46 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif47 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
 #q2gif21 {
   position: absolute;
   left: 54px;
@@ -809,6 +893,16 @@ nav .logo2 {
   top: 154px;
 }
 
+#transbox40 {
+  height: 166px;
+  width: 55px;
+  border: 2px solid black;
+  rotate: 49deg;
+  position: absolute;
+  left: 640px;
+  top: 154px;
+}
+
 #transbox37 {
   height: 166px;
   width: 55px;
@@ -933,6 +1027,16 @@ nav .logo2 {
 #transbox23 {
   height: 166px;
   width: 55px;
+  position: absolute;
+  border: 2px solid black;
+  left: 615px;
+  top: 160px;
+}
+
+#transbox41 {
+  height: 166px;
+  width: 55px;
+  border: 2px solid black;
   position: absolute;
   left: 615px;
   top: 160px;
@@ -1430,6 +1534,60 @@ nav .logo2 {
   top: 150px;
 }
 
+#fiftyseven {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#fiftyeight {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#fiftynine {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#sixty {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#sixtyone {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#sixtytwo {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#sixtythree {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#sixtyfour {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#sixtyfive {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
 #thirty {
   position: absolute;
   left: 54px;
@@ -1729,6 +1887,15 @@ nav .logo2 {
   top: 175px;
   left: 615px;
   rotate: 65deg;
+  z-index: 10;
+  visibility: hidden;
+}
+
+#arrow23 {
+  position: absolute;
+  top: 195px;
+  left: 605px;
+  rotate: 45deg;
   z-index: 10;
   visibility: hidden;
 }
