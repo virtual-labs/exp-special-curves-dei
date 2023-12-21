@@ -177,12 +177,13 @@ nav .logo2 {
   height: 269px;
 }
 
-#transbox {
+#transbox54 {
   position: absolute;
-  top: -42px;
-  left: 455px;
-  width: 325px;
-  height: 209px;
+  top: 162px;
+  border: 2px solid  black;
+  left: 555px;
+  width: 200px;
+  height: 109px;
 }
 
 #sheet {
@@ -597,6 +598,18 @@ nav .logo2 {
   top: 150px;
 }
 
+#gif75 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif76 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
 #gif35 {
   position: absolute;
   left: 54px;
@@ -693,6 +706,12 @@ nav .logo2 {
   top: 150px;
 }
 
+#gif79 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
 #gif51 {
   position: absolute;
   left: 54px;
@@ -730,6 +749,54 @@ nav .logo2 {
 }
 
 #gif57 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif58 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif66 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif67 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif68 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif69 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif70 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif71 {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#gif72 {
   position: absolute;
   left: 54px;
   top: 150px;
@@ -904,9 +971,30 @@ nav .logo2 {
   height: 166px;
   width: 55px;
   rotate: 55deg;
+
   position: absolute;
   left: 589px;
   top: 164px;
+}
+
+#transbox56 {
+  height: 166px;
+  width: 55px;
+  rotate: 45deg;
+
+  position: absolute;
+  left: 639px;
+  top: 154px;
+}
+
+#transbox57 {
+  height: 166px;
+  width: 55px;
+  rotate: 45deg;
+
+  position: absolute;
+  left: 639px;
+  top: 154px;
 }
 
 #transbox30 {
@@ -921,9 +1009,17 @@ nav .logo2 {
 #transbox31 {
   height: 96px;
   width: 165px;
+
   position: absolute;
   left: 539px;
   top: 214px;
+}
+#transbox {
+  position: absolute;
+  top: -42px;
+  left: 455px;
+  width: 325px;
+  height: 209px;
 }
 
 #transbox32 {
@@ -936,12 +1032,23 @@ nav .logo2 {
 }
 
 #transbox33 {
+
   height: 166px;
   width: 55px;
   rotate: -45deg;
   position: absolute;
   left: 139px;
   top: 154px;
+}
+
+#transbox55 {
+
+  height: 166px;
+  width: 55px;
+  rotate: -45deg;
+  position: absolute;
+  left: 89px;  
+  top: 134px;
 }
 
 #transbox51 {
@@ -963,6 +1070,7 @@ nav .logo2 {
 }
 
 #transbox40 {
+
   height: 166px;
   width: 55px;
   rotate: 49deg;
@@ -1011,6 +1119,7 @@ nav .logo2 {
 #transbox37 {
   height: 166px;
   width: 55px;
+
   rotate: 69deg;
   position: absolute;
   left: 640px;
@@ -1024,6 +1133,15 @@ nav .logo2 {
   position: absolute;
   left: 640px;
   top: 154px;
+}
+
+#transbox58 {
+  height: 166px;
+  width: 55px;
+  rotate: 75deg;
+  position: absolute;
+  left: 640px;
+  top: 124px;
 }
 
 #transbox35 {
@@ -1070,12 +1188,12 @@ nav .logo2 {
 }
 
 #transbox22 {
-  height: 166px;
-  width: 25px;
+  height: 176px;
+  width: 55px;
   rotate: 55deg;
   position: absolute;
-  left: 639px;
-  top: 142px;
+  left: 609px;
+  top: 143px;
 }
 
 #transbox27 {
@@ -1148,6 +1266,7 @@ nav .logo2 {
 #transbox43 {
   height: 166px;
   width: 55px;
+
   position: absolute;
   left: 645px;
   top: 160px;
@@ -1185,6 +1304,14 @@ nav .logo2 {
   top: 160px;
 }
 
+#transbox53 {
+  height: 166px;
+  width: 55px;
+  position: absolute;
+  left: 570px;
+  top: 160px;
+}
+
 #transbox41 {
   height: 166px;
   width: 55px;
@@ -1203,6 +1330,7 @@ nav .logo2 {
 
 #transbox24 {
   height: 166px;
+
   width: 55px;
   position: absolute;
   left: 615px;
@@ -1702,6 +1830,60 @@ nav .logo2 {
   top: 150px;
 }
 
+#ninetytwo {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#ninetythree {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#ninetyfour {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#ninetyfive {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#nientysix {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#ninetyseven {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#ninetyeight {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#ninetynine {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
+#hundered {
+  position: absolute;
+  left: 54px;
+  top: 150px;
+}
+
 #sixtyone {
   position: absolute;
   left: 54px;
@@ -2096,8 +2278,8 @@ nav .logo2 {
 
 #arrow12 {
   position: absolute;
-  top: 175px;
-  left: 585px;
+  top: 180px;
+  left: 580px;
   rotate: 55deg;
   z-index: 10;
   visibility: hidden;
@@ -2112,10 +2294,37 @@ nav .logo2 {
   visibility: hidden;
 }
 
+#arrow26 {
+  position: absolute;
+  top: 195px; 
+  left: 595px;
+  rotate: 45deg;
+  z-index: 10;
+  visibility: hidden;
+}
+
+#arrow27 {
+  position: absolute;
+  top: 185px; 
+  left: 615px;
+  rotate: 65deg;
+  z-index: 10;
+  visibility: hidden;
+}
+
 #arrow20 {
   position: absolute;
   top: 165px;
   left: 175px;
+  rotate: 135deg;
+  z-index: 10;
+  visibility: hidden;
+}
+
+#arrow25 {
+  position: absolute;
+  top: 165px;
+  left: 145px;
   rotate: 135deg;
   z-index: 10;
   visibility: hidden;
@@ -2126,6 +2335,24 @@ nav .logo2 {
   top: 175px;
   left: 615px;
   rotate: 65deg;
+  z-index: 10;
+  visibility: hidden;
+}
+
+#arrow28 {
+  position: absolute;
+  top: 145px;
+  left: 615px;
+  rotate: 65deg;
+  z-index: 10;
+  visibility: hidden;
+}
+
+#arrow29 {
+  position: absolute;
+  top: 195px;
+  left: 575px;
+  rotate: 45deg;
   z-index: 10;
   visibility: hidden;
 }
