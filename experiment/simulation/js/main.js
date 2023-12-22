@@ -547,7 +547,7 @@ function gif27(){
     document.getElementById("arrow22").style.visibility = "visible";
     document.getElementById("fourtyone").style.visibility="visible"
     document.getElementById("transbox36").style.visibility="visible"
-  },3800)
+  },4900)
 }
 
 function gif64(){
@@ -564,9 +564,9 @@ function gif64(){
 }
 
 function gif28(){
-  document.getElementById("arrow15").style.visibility = "hidden";
+  document.getElementById("arrow22").style.visibility = "hidden";
   document.getElementById("gif28").style.visibility="visible"
-  document.getElementById("transbox44").style.visibility="hidden"
+  document.getElementById("transbox36").style.visibility="hidden"
   document.getElementById("fourtyone").style.visibility="hidden"
   myTimeout=setTimeout(()=>{
     document.getElementById("gif28").style.visibility="hidden"
