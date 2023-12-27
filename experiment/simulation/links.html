@@ -1,69 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Virtual Labs</title>
-  <link rel="stylesheet" href="./css/intro.css" />
-</head>
-
-<body>
-  
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="../images/favicon.ico" />
+    <link rel="stylesheet" href="./css/intro.css" />
+    <link rel="stylesheet" href="./css/main.css" />
+    <script src="js/index.js" defer></script>
+    <title>Virtual Labs</title>
+  </head>
+  <body>
    <!-- loader -->
-    <div id="loader">
-      <div class="spinner"></div>
-    </div>
-    
+   <div id="loader">
+    <div class="spinner"></div>
+  </div>
+  
 
   <!-- Header Area -->
 
+ <nav>
+  <div > 
+    <img class="logo1" src="../images\header.png" alt="vlabs logo"/>
+  </div>
+<span class="vlabs">Special Curves</span>
+  <div >     
+     <img class="logo2" src="../images\dei.jpg" alt="dei logo" />
+  </div>
+</nav>
 
-  <nav>
-    <div > 
-      <img class="logo1" src="./images\header.png" alt="vlabs logo"/>
-    </div>
-  <span class="vlabs">Special Curves</span>
-    <div >     
-       <img class="logo2" src="./images\dei.jpg" alt="dei logo" />
-    </div>
-  </nav>
+<!---red line---->
 
-  <!---red line---->
+<div class="redline"></div>
 
-  <div class="redline"></div>
 
   <!-- gray line -->
 
-  <div class="line"></div>
+  <div class="line"></div> 
+    <main>
+      <div class="simulation-container">
+        <h2 class="title">SPECIAL CURVES</h2>
 
-  <!-- container box -->
+        <div class="content-container" id="mainPage" style="visibility: visible;">
+            <h3 class="instruction" style="font-size: 25px; width: 500px;">Choose any of the following problems</h3>
+            
+            <div class="container-of-list">
+              <ol class="list">
+                <li class="list-item" style="margin-bottom: 20px;"><a class="list-link" href="./problem-1/starter.html">To draw a cycloid, given the radius R of the generating circle. Also, draw a tangent and a normal at a given height from the baseline.</a></li>
 
-  <div class="hero">
-    <div id="container">
-      <div id="container2">
-        <h1 class="projection2">SPECIAL CURVES</h1>
-        <div class="texts">
-          <ul>
-            <li>
-              <a href="./problem-1/starter.html">To draw a cycloid, given the radius R of the generating circle. Also, draw a tangent and a normal at a given height from the baseline.</a>
-            </li>
-            <li>
-              <a href="./problem-2/starter1.html">To draw an epicycloid, given the radius r of the generating circle and the radius R of the rolling circle. Also,  draw a tangent and a normal to the epicycloid. </a>
-            </li>
-            <li>
-              <a href="./problem-3/starter2.html">To draw a hypocycloid, given the radius r of the generating circle and the radius R of the directing circle. Also, draw a tangent and a normal to the given hypocycloid.
-              </a>
-            </li>
-          </ul>
-          <button id="btn2" onclick="parent.location='./index.html'">
-            Back
-          </button>
+                <li class="list-item" style="margin-bottom: 20px;"><a class="list-link" href="./problem-2/starter1.html">To draw an epicycloid, given the radius r of the generating circle and the radius R of the rolling circle. Also,  draw a tangent and a normal to the epicycloid. </a></li>
+
+                <li class="list-item" style="margin-bottom: 20px;"><a class="list-link" href="./problem-3/starter2.html">To draw a hypocycloid, given the radius r of the generating circle and the radius R of the directing circle. Also, draw a tangent and a normal to the given hypocycloid.</a></li>
+            </div>
         </div>
-      </div>
-    </div>
-  </div>
-  <script src="./js/main.js"></script>
+    </main>
+    <script src="../js/main.js"></script>
 </body>
-
 </html>

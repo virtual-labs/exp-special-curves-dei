@@ -2,38 +2,96 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.______ is a curve that is formed by a point on the circumference of a circle, having another circle rolling inside it. ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Hypocycloid ",
+        "b": "Epicycloid ",
+        "c": "Cycloid  ",
+        "d": "None of the above. "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Hypocycloid "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. When the circle rolls along another circle outside it ,without slipping, it is known as _________.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cycloid",
+        "b": "Epicycloid ",
+        "c": "Hypocycloid ",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "b": "Epicycloid"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "3. The directing circle is known as the rolling circle.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "b": "False"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "4. In a hypocycloid, the generating circle is found inside the directing circle.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
+      },
+      "explanations": {
+        "a": "True"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "5.What is point on the generating circle that traces the curve known as?",
+      "answers": {
+        "a": "Generating point ",
+        "b": "Directing point",
+        "c": "None of the above "
+      },
+      "explanations": {
+        "a": "Generating point "
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "6.Which of the following curve is formed by tracing a point on the circumference of a rolling whose radius is almost twice the radius of a fixed circle.",
+      "answers": {
+        "a": "Epicycloid ",
+        "b": "Hypocycloid ",
+        "c": "Cycloid ",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "b": "Hypocycloid "
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "7.Does the radius of rolling circle affect the size of a cycloid?",
+      "answers": {
+        "a": "Yes",
+        "b": "No"
+      },
+      "explanations": {
+        "b": "No"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
