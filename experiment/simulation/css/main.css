@@ -2104,6 +2104,13 @@ nav .logo2 {
   visibility: hidden;
 }
 
+#arrow {
+  position: absolute;
+  top: 555px;
+  left: 620px;
+  z-index: 1;
+}
+
 #arrow1 {
   position: absolute;
   top: 195px;
