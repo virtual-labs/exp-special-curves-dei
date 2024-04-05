@@ -3,6 +3,10 @@
   padding: 0px;
 }
 
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 main {
   display: flex;
   align-items: center;
@@ -212,7 +216,6 @@ nav .logo2 {
 
 .images {
   position: absolute;
-  top: 46px;
   left: 4px;
 }
 
