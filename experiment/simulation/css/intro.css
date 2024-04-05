@@ -219,6 +219,13 @@ nav .logo2 {
   left: 4px;
 }
 
+#arrowatindex {
+  position: absolute;
+  top: 304px;
+  left: 560px;
+  z-index: 1;
+}
+
 #btn1 {
   font-size: 16px;
   font-family: inherit;
