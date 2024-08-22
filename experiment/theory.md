@@ -45,14 +45,16 @@ Where t is a parameter.<br>
 _Equation of Trochoid-_
 If a point on a circle of radius r is at a distance d from the centre of the circle, and the circle rolls along the x-axis, the parametric equations for the trochoid are:
 <p align="center">
-  <img src="images/trochoid.PNG" alt="Trochoid Equation" height = 82>
+  <img src="images/trochoid.PNG" alt="Trochoid Equation" height = 55>
 </p>
 Where t is a parameter.<br>
 <br>
+
 **5. Epitrochoid:** A curve traced by a point on the circumference of a circle as it rolls along the outside of another circle while rotating around it.
 <p align="center">
   <img src="images/epitrochoid.PNG" alt="Epitrochoid Equation" height = 82>
 </p>
+
 _Equation of Epitrochoid-_
 If the fixed circle has a radius R, the rolling circle has a radius r and the point is at a distance from the centre of the rolling circle, the parametric equations of the epitrochoid are:
 
@@ -62,6 +64,7 @@ Where t is a parameter.<br>
 <p align="center">
   <img src="images/hypotrochoid.PNG" alt="Hypotrochoid Equation" height = 82>
 </p>
+
 _Equation of Hypotrochoid-_
 If the fixed circle has a radius R, the rolling circle has a radius r, and the point is at a distance  d from the center of the rolling circle, the parametric equations of the hypotrochoid are:
 
