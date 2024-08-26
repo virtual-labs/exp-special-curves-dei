@@ -12,15 +12,21 @@ When a fixed point on the circumference of a circle, rolls along a specified str
 Cycloidal curves are traced by a point on the circumference of a circle as it rolls along a straight line without slipping. This includes-
 
 **1. Cycloid:** A curve traced by a point on the circumference of a circle as it rolls along a straight line without slipping.
+<p align="center">
+  <img src="images/cycloid.png" alt="Cycloid Equation" height = 180>
+</p>
 
 _Equation of Cycloid-_ If the circle has a radius r, and its center moves along the x-axis, then the parametric equations of the cycloid are:
 <p align="center">
-  <img src="images/cycloid.PNG" alt="Cycloid Equation" height = 40>
+  <img src="images/cycloid-eq.PNG" alt="Cycloid Equation" height = 40>
 </p>
 where t is a parameter. <br>
 <br>
 
 **2. Epicycloid:** A curve traced by a point on the circumference of a circle as it rolls along the outside of another circle.
+<p align="center">
+  <img src="images/epicycloid.svg" alt="Cycloid Equation" height = 300>
+</p>
 
 _Equation of Epicycloid-_ 
 The parametric equations for an epicycloid, where the rolling circle has radius r and the fixed circle has radius R are:
@@ -31,6 +37,9 @@ Where t is a parameter.<br>
 <br>
 
 **3. Hypocycloid:** A curve traced by a point on the circumference of a circle as it rolls along the inside of another circle.
+<p align="center">
+  <img src="images/hypocycloid.svg" alt="Cycloid Equation" height = 300>
+</p>
 
 _Equation of Hypocycloid-_
 The parametric equations for a hypocycloid, where the rolling circle has radius r and the fixed circle has radius R, are:
