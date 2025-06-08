@@ -76,7 +76,7 @@
         "d": "None of the above"
       },
       "explanations": {
-        "b": "Hypocycloid "
+        "a": "Epicycloid "
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -88,7 +88,7 @@
         "b": "No"
       },
       "explanations": {
-        "b": "No"
+        "a": "Yes"
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
