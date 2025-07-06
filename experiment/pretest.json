@@ -78,7 +78,7 @@
       "explanations": {
         "a": "Epicycloid "
       },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "advanced"
     },
     {
@@ -90,7 +90,7 @@
       "explanations": {
         "a": "Yes"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "advanced"
     }
   ]
