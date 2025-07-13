@@ -9,10 +9,8 @@
         "c": "(r/R) × 360°",
         "d": "(R/r) × 180°"
       },
-      "explanations": {
-        "d": "(r/R) × 360°"
-      },
       "correctAnswer": "d",
+      "explanation": "The angle subtended = (R/r) × 180° for a rolling circle tracing a hypocycloid or epicycloid.",
       "difficulty": "beginner"
     },
     {
@@ -23,36 +21,30 @@
         "c": "2",
         "d": "Equal"
       },
-      "explanations": {
-        "b": "8"
-      },
       "correctAnswer": "b",
+      "explanation": "The arc length of one complete cycloid is approximately 8 times the radius of the generating circle.",
       "difficulty": "beginner"
     },
     {
-      "question": "Gear tooth is a combination of hypocycloid and epicycloid. ",
+      "question": "Gear tooth is a combination of hypocycloid and epicycloid.",
       "answers": {
         "a": "True",
         "b": "False "
       },
-      "explanations": {
-        "a": "True"
-      },
       "correctAnswer": "a",
+      "explanation": "Gear teeth profiles often use hypocycloid for flanks and epicycloid for faces.",
       "difficulty": "intermediate"
     },
     {
-      "question": "If the diameter of the directing circle is doubled the diameter of the generating circle  then the hypocycloid will become a ______.",
+      "question": "If the diameter of the directing circle is doubled the diameter of the generating circle then the hypocycloid will become a ______.",
       "answers": {
         "a": "Point",
         "b": "Line",
         "c": "Epicycloid ",
         "d": "None of the above "
       },
-      "explanations": {
-        "b": "Line"
-      },
       "correctAnswer": "b",
+      "explanation": "When the directing circle’s diameter is twice the generating circle’s, the hypocycloid becomes a straight line.",
       "difficulty": "intermediate"
     },
     {
@@ -63,24 +55,20 @@
         "c": "72°",
         "d": "90"
       },
-      "explanations": {
-        "c": "72"
-      },
       "correctAnswer": "c",
+      "explanation": "Angle = (d/D) × 360° = (30/150) × 360 = 72°.",
       "difficulty": "advanced"
     },
     {
-      "question": "Which of the following curve will be generated if a circle of diameter 40 mm rolls on the circumference of another circle of diameter 150 mm and outside it? ",
+      "question": "Which of the following curve will be generated if a circle of diameter 40 mm rolls on the circumference of another circle of diameter 150 mm and outside it?",
       "answers": {
         "a": "Cycloid ",
         "b": "Epicycloid ",
         "c": "Hypocycloid ",
         "d": "None of the above "
       },
-      "explanations": {
-        "b": "Epicycloid "
-      },
       "correctAnswer": "b",
+      "explanation": "When a circle rolls outside another circle’s circumference, it generates an epicycloid.",
       "difficulty": "advanced"
     }
   ]
