@@ -9,8 +9,10 @@
         "c": "(r/R) × 360°",
         "d": "(R/r) × 180°"
       },
+      "explanations": {
+        "d": "The angle subtended = (R/r) × 180° for a rolling circle tracing a hypocycloid or epicycloid."
+      },
       "correctAnswer": "d",
-      "explanation": "The angle subtended = (R/r) × 180° for a rolling circle tracing a hypocycloid or epicycloid.",
       "difficulty": "beginner"
     },
     {
@@ -21,8 +23,10 @@
         "c": "2",
         "d": "Equal"
       },
+      "explanations": {
+        "b": "The arc length of one complete cycloid is approximately 8 times the radius of the generating circle."
+      },
       "correctAnswer": "b",
-      "explanation": "The arc length of one complete cycloid is approximately 8 times the radius of the generating circle.",
       "difficulty": "beginner"
     },
     {
@@ -31,8 +35,10 @@
         "a": "True",
         "b": "False "
       },
+      "explanations": {
+        "a": "Gear teeth profiles often use hypocycloid for flanks and epicycloid for faces."
+      },
       "correctAnswer": "a",
-      "explanation": "Gear teeth profiles often use hypocycloid for flanks and epicycloid for faces.",
       "difficulty": "intermediate"
     },
     {
@@ -41,10 +47,12 @@
         "a": "Point",
         "b": "Line",
         "c": "Epicycloid ",
-        "d": "None of the above "
+        "d": "Circle"
+      },
+      "explanations": {
+        "b": "When the directing circle’s diameter is twice the generating circle’s, the hypocycloid becomes a straight line."
       },
       "correctAnswer": "b",
-      "explanation": "When the directing circle’s diameter is twice the generating circle’s, the hypocycloid becomes a straight line.",
       "difficulty": "intermediate"
     },
     {
@@ -55,8 +63,10 @@
         "c": "72°",
         "d": "90"
       },
+      "explanations": {
+        "c": "Angle = (d/D) × 360° = (30/150) × 360 = 72°."
+      },
       "correctAnswer": "c",
-      "explanation": "Angle = (d/D) × 360° = (30/150) × 360 = 72°.",
       "difficulty": "advanced"
     },
     {
@@ -65,10 +75,12 @@
         "a": "Cycloid ",
         "b": "Epicycloid ",
         "c": "Hypocycloid ",
-        "d": "None of the above "
+        "d": "Cardioid"
+      },
+      "explanations": {
+        "b": "When a circle rolls outside another circle’s circumference, it generates an epicycloid."
       },
       "correctAnswer": "b",
-      "explanation": "When a circle rolls outside another circle’s circumference, it generates an epicycloid.",
       "difficulty": "advanced"
     }
   ]
