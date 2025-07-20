@@ -7,10 +7,12 @@
         "a": "Hypocycloid ",
         "b": "Epicycloid ",
         "c": "Cycloid  ",
-        "d": "None of the above. "
+        "d": "Trochoid "
+      },
+      "explanations": {
+        "a": "A hypocycloid is traced by a point on a circle rolling inside another circle."
       },
       "correctAnswer": "a",
-      "explanation": "A hypocycloid is traced by a point on a circle rolling inside another circle.",
       "difficulty": "beginner"
     },
     {
@@ -19,10 +21,12 @@
         "a": "Cycloid",
         "b": "Epicycloid ",
         "c": "Hypocycloid ",
-        "d": "All of the above"
+        "d": "Trochoid "
+      },
+      "explanations": {
+        "b": "An epicycloid is generated when a circle rolls on the outside of another circle."
       },
       "correctAnswer": "b",
-      "explanation": "An epicycloid is generated when a circle rolls on the outside of another circle.",
       "difficulty": "beginner"
     },
     {
@@ -31,8 +35,10 @@
         "a": "True",
         "b": "False"
       },
+      "explanations": {
+        "b": "The directing circle is fixed, while the rolling circle is the one that moves."
+      },
       "correctAnswer": "b",
-      "explanation": "The directing circle is fixed, while the rolling circle is the one that moves.",
       "difficulty": "intermediate"
     },
     {
@@ -41,8 +47,10 @@
         "a": "True",
         "b": "False"
       },
+      "explanations": {
+        "a": "A hypocycloid is formed when a generating circle rolls inside a directing circle."
+      },
       "correctAnswer": "a",
-      "explanation": "A hypocycloid is formed when a generating circle rolls inside a directing circle.",
       "difficulty": "intermediate"
     },
     {
@@ -50,10 +58,13 @@
       "answers": {
         "a": "Generating point ",
         "b": "Directing point",
-        "c": "None of the above "
+        "c": "Rolling point",
+        "d": "Tracing point"
+      },
+      "explanations": {
+        "a": "The generating point is the point on the rolling circle that traces the curve."
       },
       "correctAnswer": "a",
-      "explanation": "The generating point is the point on the rolling circle that traces the curve.",
       "difficulty": "intermediate"
     },
     {
@@ -62,10 +73,12 @@
         "a": "Epicycloid ",
         "b": "Hypocycloid ",
         "c": "Cycloid ",
-        "d": "None of the above"
+        "d": "Trochoid"
+      },
+      "explanations": {
+        "a": "An epicycloid forms when a larger circle rolls outside a smaller fixed circle."
       },
       "correctAnswer": "a",
-      "explanation": "An epicycloid forms when a larger circle rolls outside a smaller fixed circle.",
       "difficulty": "advanced"
     },
     {
@@ -74,8 +87,10 @@
         "a": "Yes",
         "b": "No"
       },
+      "explanations": {
+        "a": "The radius of the rolling circle determines the height and length of the cycloid arc."
+      },
       "correctAnswer": "a",
-      "explanation": "The radius of the rolling circle determines the height and length of the cycloid arc.",
       "difficulty": "advanced"
     }
   ]
