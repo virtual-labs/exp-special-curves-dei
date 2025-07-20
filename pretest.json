@@ -1,0 +1,97 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "______ is a curve that is formed by a point on the circumference of a circle, having another circle rolling inside it.",
+      "answers": {
+        "a": "Hypocycloid ",
+        "b": "Epicycloid ",
+        "c": "Cycloid  ",
+        "d": "Trochoid "
+      },
+      "explanations": {
+        "a": "A hypocycloid is traced by a point on a circle rolling inside another circle."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When the circle rolls along another circle outside it, without slipping, it is known as _________.",
+      "answers": {
+        "a": "Cycloid",
+        "b": "Epicycloid ",
+        "c": "Hypocycloid ",
+        "d": "Trochoid "
+      },
+      "explanations": {
+        "b": "An epicycloid is generated when a circle rolls on the outside of another circle."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The directing circle is known as the rolling circle.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "b": "The directing circle is fixed, while the rolling circle is the one that moves."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In a hypocycloid, the generating circle is found inside the directing circle.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "A hypocycloid is formed when a generating circle rolls inside a directing circle."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is point on the generating circle that traces the curve known as?",
+      "answers": {
+        "a": "Generating point ",
+        "b": "Directing point",
+        "c": "Rolling point",
+        "d": "Tracing point"
+      },
+      "explanations": {
+        "a": "The generating point is the point on the rolling circle that traces the curve."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which of the following curve is formed by tracing a point on the circumference of a rolling circle whose radius is almost twice the radius of a fixed circle.",
+      "answers": {
+        "a": "Epicycloid ",
+        "b": "Hypocycloid ",
+        "c": "Cycloid ",
+        "d": "Trochoid"
+      },
+      "explanations": {
+        "a": "An epicycloid forms when a larger circle rolls outside a smaller fixed circle."
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Does the radius of rolling circle affect the size of a cycloid?",
+      "answers": {
+        "a": "Yes",
+        "b": "No"
+      },
+      "explanations": {
+        "a": "The radius of the rolling circle determines the height and length of the cycloid arc."
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    }
+  ]
+}
